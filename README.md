@@ -13,3 +13,6 @@ Usage:-
 1. Clone the repository.
 2. Install the required packages using pip install -r requirements.txt.
 3. Run the script and input the city name.
+
+Note:-
+Replace "API_KEY" with your actual API key from OpenWeatherMap.
